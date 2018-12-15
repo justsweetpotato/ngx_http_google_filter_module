@@ -247,7 +247,8 @@ service nginx restart
 ```
 
 #### 基本配置方法 ####
-`http`配置方式
+`http`配置方式<br>
+/opt/nginx-1.7.8/conf/nginx.conf
 ```nginx
 server {
   server_name <你的域名>;
