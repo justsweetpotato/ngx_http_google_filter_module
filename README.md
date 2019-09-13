@@ -49,7 +49,7 @@ wget "http://nginx.org/download/nginx-1.7.8.tar.gz"
 # pcre 官网:
 # http://www.pcre.org/
 #
-wget "ftp://ftp.csx.cam.ac.uk/pub/software/programming/pcre/pcre-8.38.tar.gz"
+wget "https://ftp.csx.cam.ac.uk/pub/software/programming/pcre/pcre-8.38.tar.gz"
 
 #
 # 下载最新版 openssl
